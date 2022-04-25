@@ -5,7 +5,7 @@ public class UserController {
     private int age;
     private String firstname;
 
-    public UserController(String name, int age, String firstname) {
+    public UserController(String name, int age, String firstName) {
         this.name = name;
         this.age = age;
         this.firstname = firstname;
